@@ -1,4 +1,3 @@
-# Nashville-Housing-Data-Cleanup-Analysis
 # Nashville Housing: Data Cleaning & Market Analysis
 
 An end-to-end data analysis project showcasing how to transform raw, inconsistent housing records into actionable business insights using SQL and Power BI.
